@@ -1,0 +1,32 @@
+
+
+/* Big tablets to PCs*/
+@media only screen and (max-width: 1200px) {
+    .hero-text-box {
+        width: 100%;
+        padding: 0 2%;
+    }
+
+}
+
+
+/* Small tablets to Big tablets: From 768px to 1023px */
+@media only screen and (max-width: 1023px) {
+
+
+}
+
+
+
+/* Small phones to Small tablets: From 481px to 767px */
+@media only screen and (max-width: 767px) {
+
+
+}
+
+
+/* Small phones: From 0 to 480px */
+@media only screen and (max-width: 480px) {
+
+
+}
